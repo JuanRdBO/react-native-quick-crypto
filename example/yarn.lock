@@ -1423,6 +1423,13 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
+"@juanrdbo/react-native-quick-base64@^0.4.0":
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/@juanrdbo/react-native-quick-base64/-/react-native-quick-base64-0.4.0.tgz#1610768e8278d603a9dfcb4927962990af865ddd"
+  integrity sha512-Sy4db1KbXayo/0robUYVdnAvAFXwDvhcuG6wWzW6IjBTHij9gr8t1rNPtqIBFGXS1XbPnsMAbXd5E6sj+53clA==
+  dependencies:
+    base64-js "^1.5.1"
+
 "@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1":
   version "5.1.1-v1"
   resolved "https://registry.npmjs.org/@nicolo-ribaudo/eslint-scope-5-internals/-/eslint-scope-5-internals-5.1.1-v1.tgz"
